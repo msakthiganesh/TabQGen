@@ -1,0 +1,64 @@
+Epoch: 1; Avg Train Loss: 0.16974241246150246; Avg Val Loss: 0.1448974968176335;                 Avg Train BLEU:0.7249822032905311; Avg Validation BLEU:0.7504027086885366;                 Avg Train NIST:5.954806158517487; Avg Validation NIST:6.079449512816561;                 Avg Train ROUGE:0.6837420984989834; Avg Validation ROUGE:0.7156650402311984;                 Avg Train METEOR:0.6400724803485691; Avg Validation METEOR:0.6771530076963845;                 Training Time: 6:31:19; Validation Time: 0:07:45
+
+TARGET    >>> What other charts did "The Krimson Creek" peak at?
+PREDICTED >>> What was charts did KriK Krimson Creek" peak at?
+
+TARGET    >>> What was the name of the album produced by Ted Hutt?
+PREDICTED >>> What was Hu name of the album released by Ted Hutt?
+
+TARGET    >>> How many people live in Adel, Iowa?
+PREDICTED >>> What many people lived in Adel, Iowa?
+
+TARGET    >>> How many receptions did Marvin Harrison have?
+PREDICTED >>> How many receptions did Marvin Harrison have?
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Epoch: 1; Avg Train Loss: 0.22476949618959052; Avg Val Loss: 0.19095256988443435;                 Avg Train BLEU:0.7255081075201976; Avg Validation BLEU:0.7512897162186644;                 Avg Train NIST:5.957369027498815; Avg Validation NIST:6.085239622291655;                 Avg Train ROUGE:0.6845695384494354; Avg Validation ROUGE:0.7167521474919398;                 Avg Train METEOR:0.6408862752997021; Avg Validation METEOR:0.6777258044567831;                 Training Time: 6:05:39; Validation Time: 0:07:00
+
+TARGET    >>> What other charts did "The Krimson Creek" peak at?
+PREDICTED >>> What was charts did KriK Krimson Creek" peak at?
+
+TARGET    >>> What was the name of the album produced by Ted Hutt?
+PREDICTED >>> What was the name of the album produced by Ted Hutt?
+
+TARGET    >>> How many people live in Adel, Iowa?
+PREDICTED >>> What many people lived in Adel, Iowa?
+
+TARGET    >>> How many receptions did Marvin Harrison have?
+PREDICTED >>> How many receptions did Harrisonvin Harrison have?
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Epoch: 2; Avg Train Loss: 0.17257925038793703; Avg Val Loss: 0.1903091534037143;                 Avg Train BLEU:0.7657919808236254; Avg Validation BLEU:0.7576434850787628;                 Avg Train NIST:6.18409879192089; Avg Validation NIST:6.1232177986878265;                 Avg Train ROUGE:0.7312060675877139; Avg Validation ROUGE:0.7238377133397113;                 Avg Train METEOR:0.6949385851145927; Avg Validation METEOR:0.6870182139866311;                 Training Time: 6:02:13; Validation Time: 0:06:52
+
+TARGET    >>> What other charts did "The Krimson Creek" peak at?
+PREDICTED >>> What other charts did KriK Krimson Creek" peak at?
+
+TARGET    >>> What was the name of the album produced by Ted Hutt?
+PREDICTED >>> What was the name of the album released by Ted Hutt?
+
+TARGET    >>> How many people live in Adel, Iowa?
+PREDICTED >>> What many people live in Adel, Iowa?
+
+TARGET    >>> How many receptions did Marvin Harrison have?
+PREDICTED >>> How many receptions did Marvin Harrison have?
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Epoch: 3; Avg Train Loss: 0.14341038795624822; Avg Val Loss: 0.19705507156588137;                 Avg Train BLEU:0.7926355282590537; Avg Validation BLEU:0.758678618379797;                 Avg Train NIST:6.335687079433258; Avg Validation NIST:6.12063643816003;                 Avg Train ROUGE:0.7621316849609842; Avg Validation ROUGE:0.7249895666940586;                 Avg Train METEOR:0.7312713720290552; Avg Validation METEOR:0.6894168357670257;                 Training Time: 6:01:13; Validation Time: 0:06:55
+
+TARGET    >>> What other charts did "The Krimson Creek" peak at?
+PREDICTED >>> What other charts did KriK Krimson Creek" peak at?
+
+TARGET    >>> What was the name of the album produced by Ted Hutt?
+PREDICTED >>> What was the name of the album released by Ted Hutt?
+
+TARGET    >>> How many people live in Adel, Iowa?
+PREDICTED >>> What many people live in Adel, Iowa?
+
+TARGET    >>> How many receptions did Marvin Harrison have?
+PREDICTED >>> How many receptions did Marvin Harrison have?
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

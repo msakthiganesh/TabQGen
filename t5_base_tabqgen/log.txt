@@ -1,0 +1,140 @@
+Epoch: 1; Avg Train Loss: 0.19309325300928712; Avg Val Loss: 0.1515485834002495;                 Avg Train BLEU:0.7124017355411619; Avg Validation BLEU:0.7504287037535515;                 Avg Train NIST:6.4870297794137155; Avg Validation NIST:6.71668609655116;                 Avg Train ROUGE:0.6630436244392623; Avg Validation ROUGE:0.7090437279808093;                 Avg Train METEOR:0.6162713180203132; Avg Validation METEOR:0.6693186455913409;                 Training Time: 4:08:02; Validation Time: 0:08:30
+
+TARGET    >>> What is the largest mosque in Pakistan?
+PREDICTED >>> What is the largest mosque in Pakistan?
+
+TARGET    >>> What was the release date of Minecraft Volume Alpha?
+PREDICTED >>> When was the release date of the Volume Alpha?
+
+TARGET    >>> How did Colchester defeat Ipswich Town?
+PREDICTED >>> What did Colchester defeat Ipswich Town?
+
+TARGET    >>> What is the time of the 50m backstroke?
+PREDICTED >>> What is the Uruguay of Ser 50m backstroke in
+
+TARGET    >>> What other charts did "The Krimson Creek" peak at?
+PREDICTED >>> What was charts did KriK Krimson Creek" peak at?
+
+TARGET    >>> What was the name of the album produced by Ted Hutt?
+PREDICTED >>> What album Hu name of the album that by Ted Hutt?
+
+TARGET    >>> How many people live in Adel, Iowa?
+PREDICTED >>> What many people lived in Adel, Iowa?
+
+TARGET    >>> How many receptions did Marvin Harrison have?
+PREDICTED >>> How many receptions did Marvin Harrison have?
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Epoch: 2; Avg Train Loss: 0.15061454657235449; Avg Val Loss: 0.14579186838567257;                 Avg Train BLEU:0.7489963740447416; Avg Validation BLEU:0.759842472397047;                 Avg Train NIST:6.729539986209907; Avg Validation NIST:6.780385089123658;                 Avg Train ROUGE:0.7066980403173955; Avg Validation ROUGE:0.7199414312984771;                 Avg Train METEOR:0.6666047993952033; Avg Validation METEOR:0.6828061030072454;                 Training Time: 4:09:05; Validation Time: 0:08:29
+
+TARGET    >>> What is the largest mosque in Pakistan?
+PREDICTED >>> What is the largest mosque in Pakistan?
+
+TARGET    >>> What was the release date of Minecraft Volume Alpha?
+PREDICTED >>> What was the release date of the Volume Alpha?
+
+TARGET    >>> How did Colchester defeat Ipswich Town?
+PREDICTED >>> What did Colchester defeat Ipswich Town?
+
+TARGET    >>> What is the time of the 50m backstroke?
+PREDICTED >>> What is the Uruguay of Ser 50m backstroke in
+
+TARGET    >>> What other charts did "The Krimson Creek" peak at?
+PREDICTED >>> What other charts did KriK Krimson Creek" peak at?
+
+TARGET    >>> What was the name of the album produced by Ted Hutt?
+PREDICTED >>> What album Hu name of the album released by Ted Hutt?
+
+TARGET    >>> How many people live in Adel, Iowa?
+PREDICTED >>> What many people live in Adel, Iowa?
+
+TARGET    >>> How many receptions did Marvin Harrison have?
+PREDICTED >>> How many receptions did Marvin Harrison have?
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Epoch: 3; Avg Train Loss: 0.13278673009557623; Avg Val Loss: 0.14593017879128456;                 Avg Train BLEU:0.7685727092152035; Avg Validation BLEU:0.7608979752494419;                 Avg Train NIST:6.860166272087552; Avg Validation NIST:6.7888213288458585;                 Avg Train ROUGE:0.7296322059666456; Avg Validation ROUGE:0.7223665855978921;                 Avg Train METEOR:0.6933440143942131; Avg Validation METEOR:0.6840360621067989;                 Training Time: 4:07:23; Validation Time: 0:08:28
+
+TARGET    >>> What is the largest mosque in Pakistan?
+PREDICTED >>> What is the name mosque in Pakistan?
+
+TARGET    >>> What was the release date of Minecraft Volume Alpha?
+PREDICTED >>> What was the release date of the Volume Alpha?
+
+TARGET    >>> How did Colchester defeat Ipswich Town?
+PREDICTED >>> What did Colchester defeat Ipswich Town?
+
+TARGET    >>> What is the time of the 50m backstroke?
+PREDICTED >>> What is the Uruguay of Ser 50m backstroke?
+
+TARGET    >>> What other charts did "The Krimson Creek" peak at?
+PREDICTED >>> What other charts did KriK Krimson Creek" peak at?
+
+TARGET    >>> What was the name of the album produced by Ted Hutt?
+PREDICTED >>> What album the name of the album released by Ted Hutt?
+
+TARGET    >>> How many people live in Adel, Iowa?
+PREDICTED >>> What many people live in Adel, Iowa?
+
+TARGET    >>> How many receptions did Marvin Harrison have?
+PREDICTED >>> How many receptions did Marvin Harrison have?
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Epoch: 4; Avg Train Loss: 0.12001842073827151; Avg Val Loss: 0.14751807779967785;                 Avg Train BLEU:0.7834890818700305; Avg Validation BLEU:0.7634586337571057;                 Avg Train NIST:6.957409487995344; Avg Validation NIST:6.805000174512506;                 Avg Train ROUGE:0.7470823288529846; Avg Validation ROUGE:0.7257291650553668;                 Avg Train METEOR:0.7138843348326794; Avg Validation METEOR:0.6881351354353891;                 Training Time: 4:07:04; Validation Time: 0:08:26
+
+TARGET    >>> What is the largest mosque in Pakistan?
+PREDICTED >>> What is the largest mosque in Pakistan?
+
+TARGET    >>> What was the release date of Minecraft Volume Alpha?
+PREDICTED >>> What was the release date of the Volume Alpha?
+
+TARGET    >>> How did Colchester defeat Ipswich Town?
+PREDICTED >>> What did Colchester defeat Ipswich Town?
+
+TARGET    >>> What is the time of the 50m backstroke?
+PREDICTED >>> What is the Uruguay of Ser 50m backstroke?
+
+TARGET    >>> What other charts did "The Krimson Creek" peak at?
+PREDICTED >>> What other charts did KriK Krimson Creek" peak at?
+
+TARGET    >>> What was the name of the album produced by Ted Hutt?
+PREDICTED >>> What was Ted name of the album released by Ted Hutt?
+
+TARGET    >>> How many people live in Adel, Iowa?
+PREDICTED >>> What many people live in Adel, Iowa?
+
+TARGET    >>> How many receptions did Marvin Harrison have?
+PREDICTED >>> How many receptions did Marvin Harrison have?
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Epoch: 5; Avg Train Loss: 0.10927611936400877; Avg Val Loss: 0.14947422620356082;                 Avg Train BLEU:0.7973444031366221; Avg Validation BLEU:0.7629887701074711;                 Avg Train NIST:7.0493348654213; Avg Validation NIST:6.79851776040136;                 Avg Train ROUGE:0.7633025514023539; Avg Validation ROUGE:0.7252708153734733;                 Avg Train METEOR:0.7329644937592324; Avg Validation METEOR:0.6881473854542645;                 Training Time: 4:06:36; Validation Time: 0:08:27
+
+TARGET    >>> What is the largest mosque in Pakistan?
+PREDICTED >>> What is the name mosque in Pakistan?
+
+TARGET    >>> What was the release date of Minecraft Volume Alpha?
+PREDICTED >>> What was the release date of the Volume Alpha?
+
+TARGET    >>> How did Colchester defeat Ipswich Town?
+PREDICTED >>> What did Colchester defeat Ipswich Town?
+
+TARGET    >>> What is the time of the 50m backstroke?
+PREDICTED >>> What is the Uruguay of Ser 50m backstroke in
+
+TARGET    >>> What other charts did "The Krimson Creek" peak at?
+PREDICTED >>> What other charts did KriK Krimson Creek" peak at?
+
+TARGET    >>> What was the name of the album produced by Ted Hutt?
+PREDICTED >>> What album the name of the album produced by Ted Hutt?
+
+TARGET    >>> How many people live in Adel, Iowa?
+PREDICTED >>> What many people live in Adel, Iowa?
+
+TARGET    >>> How many receptions did Marvin Harrison have?
+PREDICTED >>> How many receivings did Marvin Harrison have?
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

@@ -1,0 +1,520 @@
+Epoch: 1; Avg Train Loss: 0.2911716180383849; Avg Val Loss: 0.20139013140346296;                 Avg Train BLEU:0.6525057585001892; Avg Validation BLEU:0.7143575261660358;                 Avg Train NIST:7.030661594890135; Avg Validation NIST:7.550471047828741;                 Avg Train ROUGE:0.5846166426538695; Avg Validation ROUGE:0.6609583507402158;                 Avg Train METEOR:0.526577953889256; Avg Validation METEOR:0.6147564320163759;                 Training Time: 1:14:34; Validation Time: 0:03:19
+
+TARGET    >>> How many sacks did George Selvie have in the 2007 season?
+PREDICTED >>> How many pointssacks did Sel Selvie have in 2007 2007 season?
+
+TARGET    >>> What was the rating of Dmitry Andreikin?
+PREDICTED >>> What was Andrei score of Andreimitry Andreikin in
+
+TARGET    >>> What was his position in the Texas Senate?
+PREDICTED >>> Who was the position in the 25 Senate?
+
+TARGET    >>> What album was "The End of Heartache" nominated for?
+PREDICTED >>> What was was KillThe End of Heartache" nominated for?
+
+TARGET    >>> Who wrote for 90210?
+PREDICTED >>> What wrote 90 90210?
+
+TARGET    >>> What episode of Blue Bloods did Alberto Rosende appear in?
+PREDICTED >>> What episode of Blue Bloods did Roseno Rosende appear in?
+
+TARGET    >>> What Latin Grammy nomination did "Que Te Vaya Mal" win?
+PREDICTED >>> What song Grammy Awards did KanQue Te Vaya Mal" win at
+
+TARGET    >>> What was the highest temperature ever recorded in Chester in August?
+PREDICTED >>> What was the highest temperature ever recorded in Chester? August?
+
+TARGET    >>> What is the largest mosque in Pakistan?
+PREDICTED >>> What was the largest mosque in Pakistan?
+
+TARGET    >>> What was the release date of Minecraft Volume Alpha?
+PREDICTED >>> What was the release date of Minecraft  Alpha?
+
+TARGET    >>> How did Colchester defeat Ipswich Town?
+PREDICTED >>> What did Colchester United Ipswich Town?
+
+TARGET    >>> What is the time of the 50m backstroke?
+PREDICTED >>> What is the record of Ser 50m backstroke?
+
+TARGET    >>> What other charts did "The Krimson Creek" peak at?
+PREDICTED >>> What was charts did KriK Heatmson Creek" chart at?
+
+TARGET    >>> What was the name of the album produced by Ted Hutt?
+PREDICTED >>> What was Hu name of the album that by Ted Hutt?
+
+TARGET    >>> How many people live in Adel, Iowa?
+PREDICTED >>> How many people lived in Adel, Iowa?
+
+TARGET    >>> How many receptions did Marvin Harrison have?
+PREDICTED >>> How many receptions did Harrisonvin Harrison have?
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Epoch: 2; Avg Train Loss: 0.21693669986959002; Avg Val Loss: 0.18670308435210786;                 Avg Train BLEU:0.6977589724398885; Avg Validation BLEU:0.7296841158079839;                 Avg Train NIST:7.428369077644386; Avg Validation NIST:7.666262361961808;                 Avg Train ROUGE:0.6404240256224951; Avg Validation ROUGE:0.6797282572284508;                 Avg Train METEOR:0.5909698566632517; Avg Validation METEOR:0.636218008760176;                 Training Time: 1:14:06; Validation Time: 0:03:20
+
+TARGET    >>> How many sacks did George Selvie have in the 2007 season?
+PREDICTED >>> How many sacks did Sel Selvie have in 2007 2007 season?
+
+TARGET    >>> What was the rating of Dmitry Andreikin?
+PREDICTED >>> What was Andrei rating of Andreimitry Andreikin in
+
+TARGET    >>> What was his position in the Texas Senate?
+PREDICTED >>> Who was the term in the 25 Senate?
+
+TARGET    >>> What album was "The End of Heartache" nominated for?
+PREDICTED >>> What was was KillThe End of Heartache" nominated for?
+
+TARGET    >>> Who wrote for 90210?
+PREDICTED >>> What wrote 90 90210?
+
+TARGET    >>> What episode of Blue Bloods did Alberto Rosende appear in?
+PREDICTED >>> What was of Blue Bloods did Alberto Rosende appear in?
+
+TARGET    >>> What Latin Grammy nomination did "Que Te Vaya Mal" win?
+PREDICTED >>> What song Grammy Award did KanQue Te Vaya Mal" receive in
+
+TARGET    >>> What was the highest temperature ever recorded in Chester in August?
+PREDICTED >>> What was the highest temperature ever recorded in Chester? August?
+
+TARGET    >>> What is the largest mosque in Pakistan?
+PREDICTED >>> What was the largest mosque in Pakistan?
+
+TARGET    >>> What was the release date of Minecraft Volume Alpha?
+PREDICTED >>> What was the release date of Minecraft Volume Alpha?
+
+TARGET    >>> How did Colchester defeat Ipswich Town?
+PREDICTED >>> What did Colchester defeat Ipswich Town?
+
+TARGET    >>> What is the time of the 50m backstroke?
+PREDICTED >>> What is the Uruguay of Ser 50m backstroke?
+
+TARGET    >>> What other charts did "The Krimson Creek" peak at?
+PREDICTED >>> What was charts did KriK Heatmson Creek" chart at?
+
+TARGET    >>> What was the name of the album produced by Ted Hutt?
+PREDICTED >>> What was the name of the album that by Ted Hutt?
+
+TARGET    >>> How many people live in Adel, Iowa?
+PREDICTED >>> How many people lived in Adel, Iowa?
+
+TARGET    >>> How many receptions did Marvin Harrison have?
+PREDICTED >>> How many receptions did Marvin Harrison have?
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Epoch: 3; Avg Train Loss: 0.20066695379288055; Avg Val Loss: 0.1799951439229444;                 Avg Train BLEU:0.7124099213134958; Avg Validation BLEU:0.7374850005881874;                 Avg Train NIST:7.550578761234329; Avg Validation NIST:7.73298458603237;                 Avg Train ROUGE:0.6583306471114603; Avg Validation ROUGE:0.6889800167237435;                 Avg Train METEOR:0.6111988519096789; Avg Validation METEOR:0.6468630737404809;                 Training Time: 1:14:12; Validation Time: 0:03:18
+
+TARGET    >>> How many sacks did George Selvie have in the 2007 season?
+PREDICTED >>> How many sacks did Sel Selvie have in 2007 2007 season?
+
+TARGET    >>> What was the rating of Dmitry Andreikin?
+PREDICTED >>> What was Andrei rating of Dmitry Andreikin in
+
+TARGET    >>> What was his position in the Texas Senate?
+PREDICTED >>> Who was the position in the 25 Senate?
+
+TARGET    >>> What album was "The End of Heartache" nominated for?
+PREDICTED >>> What was was KillThe End of Heartache" nominated for?
+
+TARGET    >>> Who wrote for 90210?
+PREDICTED >>> What wrote 90 90210?
+
+TARGET    >>> What episode of Blue Bloods did Alberto Rosende appear in?
+PREDICTED >>> What episode of Blue Bloods did Alberto Rosende appear in?
+
+TARGET    >>> What Latin Grammy nomination did "Que Te Vaya Mal" win?
+PREDICTED >>> What song Grammy Award did KanQue Te Vaya Mal" receive in
+
+TARGET    >>> What was the highest temperature ever recorded in Chester in August?
+PREDICTED >>> What was the highest temperature ever recorded in Chester? August?
+
+TARGET    >>> What is the largest mosque in Pakistan?
+PREDICTED >>> What is the largest mosque in Pakistan?
+
+TARGET    >>> What was the release date of Minecraft Volume Alpha?
+PREDICTED >>> What was the release date of Minecraft Volume Alpha?
+
+TARGET    >>> How did Colchester defeat Ipswich Town?
+PREDICTED >>> What did Colchester defeat Ipswich Town?
+
+TARGET    >>> What is the time of the 50m backstroke?
+PREDICTED >>> What is the Uruguay of Ser 50m backstroke?
+
+TARGET    >>> What other charts did "The Krimson Creek" peak at?
+PREDICTED >>> What was charts did KriK Heatmson Creek" peak at?
+
+TARGET    >>> What was the name of the album produced by Ted Hutt?
+PREDICTED >>> What was Hu name of the album that by Ted Hutt?
+
+TARGET    >>> How many people live in Adel, Iowa?
+PREDICTED >>> How many people lived in Adel, Iowa?
+
+TARGET    >>> How many receptions did Marvin Harrison have?
+PREDICTED >>> How many receptions did Marvin Harrison have?
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Epoch: 4; Avg Train Loss: 0.18968820256616323; Avg Val Loss: 0.17482342623388425;                 Avg Train BLEU:0.7224272014554061; Avg Validation BLEU:0.7434181507878136;                 Avg Train NIST:7.635935862863702; Avg Validation NIST:7.784113148092434;                 Avg Train ROUGE:0.6703064578318803; Avg Validation ROUGE:0.6954543538518142;                 Avg Train METEOR:0.6251093775650669; Avg Validation METEOR:0.654541883534044;                 Training Time: 1:14:14; Validation Time: 0:03:19
+
+TARGET    >>> How many sacks did George Selvie have in the 2007 season?
+PREDICTED >>> How many sacks did Sel Selvie have in 2007 2007 season?
+
+TARGET    >>> What was the rating of Dmitry Andreikin?
+PREDICTED >>> What was Andrei rating of Dmitry Andreikin in
+
+TARGET    >>> What was his position in the Texas Senate?
+PREDICTED >>> Who was the term in the 25 Senate?
+
+TARGET    >>> What album was "The End of Heartache" nominated for?
+PREDICTED >>> What was was KillThe End of Heartache" nominated for?
+
+TARGET    >>> Who wrote for 90210?
+PREDICTED >>> What wrote 90 90210?
+
+TARGET    >>> What episode of Blue Bloods did Alberto Rosende appear in?
+PREDICTED >>> What episode of Blue Bloods did Alberto Rosende appear in?
+
+TARGET    >>> What Latin Grammy nomination did "Que Te Vaya Mal" win?
+PREDICTED >>> What song Grammy Award did KanQue Te Vaya Mal" receive in
+
+TARGET    >>> What was the highest temperature ever recorded in Chester in August?
+PREDICTED >>> What was the highest temperature ever recorded in Chester? August?
+
+TARGET    >>> What is the largest mosque in Pakistan?
+PREDICTED >>> What is the largest mosque in Pakistan?
+
+TARGET    >>> What was the release date of Minecraft Volume Alpha?
+PREDICTED >>> What was the release date of Minecraft Volume Alpha?
+
+TARGET    >>> How did Colchester defeat Ipswich Town?
+PREDICTED >>> What did Colchester beat Ipswich Town?
+
+TARGET    >>> What is the time of the 50m backstroke?
+PREDICTED >>> What is the Uruguay of Ser 50  backstroke?
+
+TARGET    >>> What other charts did "The Krimson Creek" peak at?
+PREDICTED >>> What was charts did KriK Heatmson Creek" chart at?
+
+TARGET    >>> What was the name of the album produced by Ted Hutt?
+PREDICTED >>> What was Hu name of the album that by Ted Hutt?
+
+TARGET    >>> How many people live in Adel, Iowa?
+PREDICTED >>> How many people lived in Adel, Iowa?
+
+TARGET    >>> How many receptions did Marvin Harrison have?
+PREDICTED >>> How many receptions did Harrisonvin Harrison have?
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Epoch: 5; Avg Train Loss: 0.18168210364761964; Avg Val Loss: 0.17231893222838546;                 Avg Train BLEU:0.7301806149604472; Avg Validation BLEU:0.7458717509579261;                 Avg Train NIST:7.701313144849515; Avg Validation NIST:7.805389458702128;                 Avg Train ROUGE:0.6792966067745839; Avg Validation ROUGE:0.6990877922347534;                 Avg Train METEOR:0.6354477094603254; Avg Validation METEOR:0.658193061631212;                 Training Time: 1:14:12; Validation Time: 0:03:18
+
+TARGET    >>> How many sacks did George Selvie have in the 2007 season?
+PREDICTED >>> How many sacks did Sel Selvie have in 2007 2007 season?
+
+TARGET    >>> What was the rating of Dmitry Andreikin?
+PREDICTED >>> What was Andrei rating of Dmitry Andreikin in
+
+TARGET    >>> What was his position in the Texas Senate?
+PREDICTED >>> Who was the position in the 25 Senate?
+
+TARGET    >>> What album was "The End of Heartache" nominated for?
+PREDICTED >>> What was was KillThe End of Heartache" nominated for?
+
+TARGET    >>> Who wrote for 90210?
+PREDICTED >>> What wrote 90 90210?
+
+TARGET    >>> What episode of Blue Bloods did Alberto Rosende appear in?
+PREDICTED >>> What episode of Blue Bloods did Alberto Rosende appear in?
+
+TARGET    >>> What Latin Grammy nomination did "Que Te Vaya Mal" win?
+PREDICTED >>> What song Grammy Award did KanQue Te Vaya Mal" receive in
+
+TARGET    >>> What was the highest temperature ever recorded in Chester in August?
+PREDICTED >>> What was the highest temperature ever recorded in Chester? August?
+
+TARGET    >>> What is the largest mosque in Pakistan?
+PREDICTED >>> What is the largest mosque in Pakistan?
+
+TARGET    >>> What was the release date of Minecraft Volume Alpha?
+PREDICTED >>> What was the release date of Minecraft Volume Alpha?
+
+TARGET    >>> How did Colchester defeat Ipswich Town?
+PREDICTED >>> What did Colchester beat Ipswich Town?
+
+TARGET    >>> What is the time of the 50m backstroke?
+PREDICTED >>> What is the Uruguay of Ser 50  backstroke?
+
+TARGET    >>> What other charts did "The Krimson Creek" peak at?
+PREDICTED >>> What was charts did KriK Krimson Creek" peak at?
+
+TARGET    >>> What was the name of the album produced by Ted Hutt?
+PREDICTED >>> What was Hu name of the album that by Ted Hutt?
+
+TARGET    >>> How many people live in Adel, Iowa?
+PREDICTED >>> What many people live in Adel, Iowa?
+
+TARGET    >>> How many receptions did Marvin Harrison have?
+PREDICTED >>> How many receptions did Harrisonvin Harrison have?
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Epoch: 6; Avg Train Loss: 0.1747375394178394; Avg Val Loss: 0.169774089187098;                 Avg Train BLEU:0.7364017687991253; Avg Validation BLEU:0.7494781622210773;                 Avg Train NIST:7.754990830240968; Avg Validation NIST:7.829519931126639;                 Avg Train ROUGE:0.6865042602405773; Avg Validation ROUGE:0.7030459232747933;                 Avg Train METEOR:0.643786119720037; Avg Validation METEOR:0.6635445485666303;                 Training Time: 1:14:07; Validation Time: 0:03:19
+
+TARGET    >>> How many sacks did George Selvie have in the 2007 season?
+PREDICTED >>> How many sacks did Sel Selvie have in 2007 2007 season?
+
+TARGET    >>> What was the rating of Dmitry Andreikin?
+PREDICTED >>> What was Andrei rating of Dmitry Andreikin in
+
+TARGET    >>> What was his position in the Texas Senate?
+PREDICTED >>> Who was the position in the Texas Senate?
+
+TARGET    >>> What album was "The End of Heartache" nominated for?
+PREDICTED >>> What was was KillThe End of Heartache" nominated for?
+
+TARGET    >>> Who wrote for 90210?
+PREDICTED >>> What wrote 90 90210?
+
+TARGET    >>> What episode of Blue Bloods did Alberto Rosende appear in?
+PREDICTED >>> What episode of Blue Bloods did Alberto Rosende appear in?
+
+TARGET    >>> What Latin Grammy nomination did "Que Te Vaya Mal" win?
+PREDICTED >>> What song Grammy was did KanQue Te Vaya Mal" receive?
+
+TARGET    >>> What was the highest temperature ever recorded in Chester in August?
+PREDICTED >>> What was the highest temperature ever recorded in Chester? August?
+
+TARGET    >>> What is the largest mosque in Pakistan?
+PREDICTED >>> What is the largest mosque in Pakistan?
+
+TARGET    >>> What was the release date of Minecraft Volume Alpha?
+PREDICTED >>> What was the release date of Minecraft Volume Alpha?
+
+TARGET    >>> How did Colchester defeat Ipswich Town?
+PREDICTED >>> What did Colchester beat Ipswich Town?
+
+TARGET    >>> What is the time of the 50m backstroke?
+PREDICTED >>> What is the Uruguay of Ser 50  backstroke?
+
+TARGET    >>> What other charts did "The Krimson Creek" peak at?
+PREDICTED >>> What was charts did KriK Krimson Creek" peak at?
+
+TARGET    >>> What was the name of the album produced by Ted Hutt?
+PREDICTED >>> What was the name of the album that by Ted Hutt?
+
+TARGET    >>> How many people live in Adel, Iowa?
+PREDICTED >>> What many people live in Adel, Iowa?
+
+TARGET    >>> How many receptions did Marvin Harrison have?
+PREDICTED >>> How many receptions did Marvin Harrison have?
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Epoch: 7; Avg Train Loss: 0.16911648071609364; Avg Val Loss: 0.16795524807212453;                 Avg Train BLEU:0.7423700084402696; Avg Validation BLEU:0.7512488241714387;                 Avg Train NIST:7.80562156597771; Avg Validation NIST:7.842650326678686;                 Avg Train ROUGE:0.6937389710886119; Avg Validation ROUGE:0.7044052973530184;                 Avg Train METEOR:0.6522297615519754; Avg Validation METEOR:0.6648033437107975;                 Training Time: 1:14:14; Validation Time: 0:03:18
+
+TARGET    >>> How many sacks did George Selvie have in the 2007 season?
+PREDICTED >>> How many sacks did Sel Selvie have in 2007 2007 season?
+
+TARGET    >>> What was the rating of Dmitry Andreikin?
+PREDICTED >>> What was Andrei rating of Dmitry Andreikin in
+
+TARGET    >>> What was his position in the Texas Senate?
+PREDICTED >>> Who was the position in the Texas Senate?
+
+TARGET    >>> What album was "The End of Heartache" nominated for?
+PREDICTED >>> What was was KillThe End of Heartache" nominated for?
+
+TARGET    >>> Who wrote for 90210?
+PREDICTED >>> What wrote 90 90210?
+
+TARGET    >>> What episode of Blue Bloods did Alberto Rosende appear in?
+PREDICTED >>> What episode of Blue Bloods did Alberto Rosende appear in?
+
+TARGET    >>> What Latin Grammy nomination did "Que Te Vaya Mal" win?
+PREDICTED >>> What song Grammy was did KanQue Te Vaya Mal" receive?
+
+TARGET    >>> What was the highest temperature ever recorded in Chester in August?
+PREDICTED >>> What was the highest temperature ever recorded in Chester? August?
+
+TARGET    >>> What is the largest mosque in Pakistan?
+PREDICTED >>> What is the largest mosque in Pakistan?
+
+TARGET    >>> What was the release date of Minecraft Volume Alpha?
+PREDICTED >>> What was the release date of Minecraft Volume Alpha?
+
+TARGET    >>> How did Colchester defeat Ipswich Town?
+PREDICTED >>> What did Colchester beat Ipswich Town?
+
+TARGET    >>> What is the time of the 50m backstroke?
+PREDICTED >>> What is the Uruguay of Ser 50  backstroke?
+
+TARGET    >>> What other charts did "The Krimson Creek" peak at?
+PREDICTED >>> What other charts did KriK Krimson Creek" peak at?
+
+TARGET    >>> What was the name of the album produced by Ted Hutt?
+PREDICTED >>> What was the name of the album that by Ted Hutt?
+
+TARGET    >>> How many people live in Adel, Iowa?
+PREDICTED >>> How many people live in Adel, Iowa?
+
+TARGET    >>> How many receptions did Marvin Harrison have?
+PREDICTED >>> How many receptions did Harrisonvin Harrison have?
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Epoch: 8; Avg Train Loss: 0.16406973884379086; Avg Val Loss: 0.16684400054593437;                 Avg Train BLEU:0.7472800820566382; Avg Validation BLEU:0.7529785337572602;                 Avg Train NIST:7.8490511730060195; Avg Validation NIST:7.862854955363874;                 Avg Train ROUGE:0.6991750372543525; Avg Validation ROUGE:0.7074136821780184;                 Avg Train METEOR:0.6583085453949683; Avg Validation METEOR:0.6682990868423034;                 Training Time: 1:14:03; Validation Time: 0:03:18
+
+TARGET    >>> How many sacks did George Selvie have in the 2007 season?
+PREDICTED >>> How many sacks did Sel Selvie have in 2007 2007 season?
+
+TARGET    >>> What was the rating of Dmitry Andreikin?
+PREDICTED >>> What was Andrei rating of Dmitry Andreikin in
+
+TARGET    >>> What was his position in the Texas Senate?
+PREDICTED >>> Who was the position in the Texas Senate?
+
+TARGET    >>> What album was "The End of Heartache" nominated for?
+PREDICTED >>> What was was KillThe End of Heartache" nominated for?
+
+TARGET    >>> Who wrote for 90210?
+PREDICTED >>> What wrote 90 90210?
+
+TARGET    >>> What episode of Blue Bloods did Alberto Rosende appear in?
+PREDICTED >>> What episode of Blue Bloods did Alberto Rosende appear in?
+
+TARGET    >>> What Latin Grammy nomination did "Que Te Vaya Mal" win?
+PREDICTED >>> What song Grammy Award did KanQue Te Vaya Mal" receive?
+
+TARGET    >>> What was the highest temperature ever recorded in Chester in August?
+PREDICTED >>> What was the highest temperature ever recorded in Chester? August?
+
+TARGET    >>> What is the largest mosque in Pakistan?
+PREDICTED >>> What is the largest mosque in Pakistan?
+
+TARGET    >>> What was the release date of Minecraft Volume Alpha?
+PREDICTED >>> What was the release date of Minecraft Volume Alpha?
+
+TARGET    >>> How did Colchester defeat Ipswich Town?
+PREDICTED >>> What did Colchester defeat Ipswich Town?
+
+TARGET    >>> What is the time of the 50m backstroke?
+PREDICTED >>> What is the record of Ser 50  backstroke?
+
+TARGET    >>> What other charts did "The Krimson Creek" peak at?
+PREDICTED >>> What was charts did KriK Krimson Creek" peak at?
+
+TARGET    >>> What was the name of the album produced by Ted Hutt?
+PREDICTED >>> What was Hu name of the album that by Ted Hutt?
+
+TARGET    >>> How many people live in Adel, Iowa?
+PREDICTED >>> What many people live in Adel, Iowa?
+
+TARGET    >>> How many receptions did Marvin Harrison have?
+PREDICTED >>> How many receptions did Harrisonvin Harrison have?
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Epoch: 9; Avg Train Loss: 0.1595250086408003; Avg Val Loss: 0.16636037488524524;                 Avg Train BLEU:0.7517085346575075; Avg Validation BLEU:0.7542471556950647;                 Avg Train NIST:7.8857237856855384; Avg Validation NIST:7.87052677142756;                 Avg Train ROUGE:0.703995534561142; Avg Validation ROUGE:0.708485331042676;                 Avg Train METEOR:0.6643959470868829; Avg Validation METEOR:0.668905372471289;                 Training Time: 1:13:45; Validation Time: 0:03:16
+
+TARGET    >>> How many sacks did George Selvie have in the 2007 season?
+PREDICTED >>> How many sacks did Sel Selvie have in 2007 2007 T?
+
+TARGET    >>> What was the rating of Dmitry Andreikin?
+PREDICTED >>> What was Andrei rating of Dmitry Andreikin in
+
+TARGET    >>> What was his position in the Texas Senate?
+PREDICTED >>> Who was the position in the Texas Senate?
+
+TARGET    >>> What album was "The End of Heartache" nominated for?
+PREDICTED >>> What was was KillThe End of Heartache" nominated for?
+
+TARGET    >>> Who wrote for 90210?
+PREDICTED >>> What wrote 90 90210?
+
+TARGET    >>> What episode of Blue Bloods did Alberto Rosende appear in?
+PREDICTED >>> What episode of Blue Bloods did Alberto Rosende appear in?
+
+TARGET    >>> What Latin Grammy nomination did "Que Te Vaya Mal" win?
+PREDICTED >>> What song Grammy Award did KanQue Te Vaya Mal" receive?
+
+TARGET    >>> What was the highest temperature ever recorded in Chester in August?
+PREDICTED >>> What was the highest temperature ever recorded in Chester? August?
+
+TARGET    >>> What is the largest mosque in Pakistan?
+PREDICTED >>> What is the largest mosque in Pakistan?
+
+TARGET    >>> What was the release date of Minecraft Volume Alpha?
+PREDICTED >>> What was the release date of Minecraft Volume Alpha?
+
+TARGET    >>> How did Colchester defeat Ipswich Town?
+PREDICTED >>> What did Colchester defeat Ipswich Town?
+
+TARGET    >>> What is the time of the 50m backstroke?
+PREDICTED >>> What is the Uruguay of Ser Uruguay  backstroke?
+
+TARGET    >>> What other charts did "The Krimson Creek" peak at?
+PREDICTED >>> What other charts did KriK Krimson Creek" peak at?
+
+TARGET    >>> What was the name of the album produced by Ted Hutt?
+PREDICTED >>> What was Hu name of the album that by Ted Hutt?
+
+TARGET    >>> How many people live in Adel, Iowa?
+PREDICTED >>> What many people live in Adel, Iowa?
+
+TARGET    >>> How many receptions did Marvin Harrison have?
+PREDICTED >>> How many receptions did Marvin Harrison have?
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Epoch: 10; Avg Train Loss: 0.15558672137235643; Avg Val Loss: 0.16532957446746552;                 Avg Train BLEU:0.755986202209382; Avg Validation BLEU:0.7557411452522905;                 Avg Train NIST:7.922667362657761; Avg Validation NIST:7.886340299734235;                 Avg Train ROUGE:0.7097307533859544; Avg Validation ROUGE:0.7106395122456595;                 Avg Train METEOR:0.6708092604490119; Avg Validation METEOR:0.6717461598751631;                 Training Time: 1:13:45; Validation Time: 0:03:18
+
+TARGET    >>> How many sacks did George Selvie have in the 2007 season?
+PREDICTED >>> How many sacks did Sel Selvie have in 2007 2007 T?
+
+TARGET    >>> What was the rating of Dmitry Andreikin?
+PREDICTED >>> What was Andrei rating of Dmitry Andreikin in
+
+TARGET    >>> What was his position in the Texas Senate?
+PREDICTED >>> Who was the position in the Texas Senate?
+
+TARGET    >>> What album was "The End of Heartache" nominated for?
+PREDICTED >>> What was was KillThe End of Heartache" nominated for?
+
+TARGET    >>> Who wrote for 90210?
+PREDICTED >>> What wrote 90 90210?
+
+TARGET    >>> What episode of Blue Bloods did Alberto Rosende appear in?
+PREDICTED >>> What episode of Blue Bloods did Alberto Rosende appear in?
+
+TARGET    >>> What Latin Grammy nomination did "Que Te Vaya Mal" win?
+PREDICTED >>> What song Grammy award did KanQue Te Vaya Mal" receive in
+
+TARGET    >>> What was the highest temperature ever recorded in Chester in August?
+PREDICTED >>> What was the highest temperature ever recorded in Chester in August?
+
+TARGET    >>> What is the largest mosque in Pakistan?
+PREDICTED >>> What is the largest mosque in Pakistan?
+
+TARGET    >>> What was the release date of Minecraft Volume Alpha?
+PREDICTED >>> What was the release date of Minecraft Volume Alpha?
+
+TARGET    >>> How did Colchester defeat Ipswich Town?
+PREDICTED >>> What did Colchester defeat Ipswich Town?
+
+TARGET    >>> What is the time of the 50m backstroke?
+PREDICTED >>> What is the Uruguay of Ser 50  backstroke?
+
+TARGET    >>> What other charts did "The Krimson Creek" peak at?
+PREDICTED >>> What other charts did KriK Krimson Creek" peak at?
+
+TARGET    >>> What was the name of the album produced by Ted Hutt?
+PREDICTED >>> What was Hu name of the album that by Ted Hutt?
+
+TARGET    >>> How many people live in Adel, Iowa?
+PREDICTED >>> How many people live in Adel, Iowa?
+
+TARGET    >>> How many receptions did Marvin Harrison have?
+PREDICTED >>> How many receivings did Marvin Harrison have?
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
