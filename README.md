@@ -22,11 +22,11 @@ We implemented our entire pipeline with interactive Jupyter notebooks and to rep
 
 **Models trained on TabQGen were uploaded to [HuggingFace models](https://huggingface.co/models) and can be found in below links:** 
 
-t5_small -> https://huggingface.co/saichandrapandraju/t5_small_tabqgen
+t5_small -> https://huggingface.co/msakthiganesh/TabQGen-Small
 
-t5_base -> https://huggingface.co/saichandrapandraju/t5_base_tabqgen
+t5_base -> https://huggingface.co/msakthiganesh/TabQGen-Base
 
-t5_large -> https://huggingface.co/saichandrapandraju/t5_large_tabqgen
+t5_large -> https://huggingface.co/msakthiganesh/TabQGen-Large
 
 # How to Cite
 If you extend or use this work, please cite the [paper](https://doi.org/10.3991/ijet.v16i18.25121) :
